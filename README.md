@@ -1,2 +1,2 @@
 # python
-python learning
+small python projects - my main goal is to learn
